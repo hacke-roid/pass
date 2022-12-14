@@ -1,0 +1,18 @@
+.inputStyle {
+    font-weight: 300;
+    
+}
+
+.searchbar {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+    height: 40px;
+    padding-left: 16px;
+    padding-right: 16px;
+    justify-content: space-between;
+}
+
+.icon {
+    justify-items: flex-start;
+}
